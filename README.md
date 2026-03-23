@@ -6,10 +6,10 @@ Title: creating your first Git Repository
 Question: Creating a GitHub Repository named:jan-2026-my-first-repo
 
 
-Name:Esther Zimba 
+Name:Deborah Namutami 
 
 
-Student number:202610141889
+Student number:202610147844
 
 
 Course Code:(ICT 113)
